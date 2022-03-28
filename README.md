@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+<header><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css"></header>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+                                                                                                                            
+                                                                                                                  
+<div align="center">
+  <img src="https://media.giphy.com/media/mUtfRO0EkV7fZyTs0G/giphy.gif" width="600" height="300"/>
+</div>
+                                                                         
+<hr/>
+<div align="center">
+:hammer_and_wrench: Langages et outils utilisés pour ce projet:
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+ title="git" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+<br/>
+<h2> Le projet </h2>
 
-### `npm start`
+<p>Le projet a été développé dans le cadre du programme de formation en développement web à la <a href="https://www.wildcodeschool.com/">Wild Code School</a> , d'une durée de 4 semaines (Janvier 2022).</p>
+</br>
+<p>L'objectif était de créer une application React.js et de manipuler les données d'une API. Nous avons également appris et appliqué les méthodes agiles (notamment SCRUM). Ce faisant, nous avons commencé par concevoir un Wireframe, nous avons élaboré un Product Backlog en définissant les différentes user stories et les Tech Tasks impliquées. Enfin, tout au long du projet, nous avons utilisé Trello pour mieux organiser et suivre nos progrès.</p>
+</br>
+  
+<h2>Caractéristiques</h2>
+<ul>
+ <li>Un globe 3D modélisé grace à Three.js</li>
+ <li>Différents modales apparaissant à chaque clique sur les vignettes</li>
+ <li>Un carroussel de photos</li>
+  <li>Un lecteur audio</li>
+ <li>Un bot interactif</li>
+ 
+<h2> L'équipe </h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br/>
+<ul>
+    <li><a href="https://github.com/mariem31">Mariem</a> </li>
+    <li><a href="https://github.com/SummerCoder4">Deo</a></li>
+    <li><a href="https://github.com/DataLyLa">Lyndia</a></li>
+    <li><a href="https://github.com/JulesCharles">Jules</a></li>
+    <li><a href="https://github.com/Yorgan-Agb">Yorgan</a> </li>
+   <li>Audrey VALLIÉ</li>
+</ul>
+<br/>
+<h2>Caractéristiques</h2>
+<ul>
+ <li>Page d'accueil avec un lecteur audio et un background fait en equilizer</li>
+ <li>Une page mix proposant l'écoute des différents mix du DJ</li>
+ <li>Un carroussel de photos</li>
+ <li>Un formulaire </li>
+ <br/>
+ <h2> API Utilisée</h2>
+ <p>Pour le projet, nous avons décidé de créer notre propre <a href="https://github.com/JulesCharles/API-PAYS.gitAPI">API</a></p>
+ <br/>
+ <h2>Dans le répertoire du projet, vous pouvez exécuter :</h2>
+<p>npm install</p>
+<p>npm start<p>
+Ces commandes installent les dépendances et démarrent l'application en mode développement.
+<h2>Captures d'écran</h2>
