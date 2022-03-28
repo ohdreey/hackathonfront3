@@ -3,7 +3,8 @@
                                                                                                                             
                                                                                                                   
 <div align="center">
-  <img src="https://media.giphy.com/media/mUtfRO0EkV7fZyTs0G/giphy.gif" width="600" height="300"/>
+  <h2> Finalistes Hackaton sponsorisé par Enedis</h2>
+  <img src="https://media.giphy.com/media/qNeX4mIaGbBfvq4oDh/giphy.giff" width="400" height="300"/>
 </div>
                                                                          
 <hr/>
